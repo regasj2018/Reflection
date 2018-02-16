@@ -1,3 +1,12 @@
+# Reflection 4
+## 2/16/2018
+This week I learned about more types of strings. I learned how to replace 
+words by using s.replace(...). I also learned how to find the length of 
+any word or sentence and be able to list them. Mr. Gold also taught me how 
+to generate a random number using the commands, import random, and
+random.randint(#,#). 
+
+---
 
 
 # Reflection 3
