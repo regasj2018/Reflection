@@ -1,5 +1,5 @@
 # Reflection 4
-## 2/16/2018
+##2/16/2018
 This week I learned about more types of strings. I learned how to replace 
 words by using s.replace(...). I also learned how to find the length of 
 any word or sentence and be able to list them. Mr. Gold also taught me how 
@@ -23,7 +23,7 @@ uses true or false.
 
 
 # Reflection 2
-## 2/2/2018
+##2/2/2018
 This week I strengthened my skills in git. I'm now able to create and edit my
 repository fluently. I also learned how to add bullet points and sub bullet 
 points in my repository. This was overall a good week were we went over all the 
