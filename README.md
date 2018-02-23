@@ -1,3 +1,15 @@
+# Reflection 5
+##2/23/2018
+This week I learned how to change my text color to any color I want or I could
+highlight it. I also learned this week on how to make a number range so if I
+type a number into a raw_input it will pop up text that I have put in their
+for a number of that range. I learned how to create my own mad libs using 
+raw_input and these{}. I also learned about and and or, and how they can be 
+used.
+
+---
+
+
 # Reflection 4
 ##2/16/2018
 This week I learned about more types of strings. I learned how to replace 
