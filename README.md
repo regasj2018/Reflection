@@ -1,5 +1,15 @@
+# Reflection 6
+## 3/1/2018
+This week I learned how to create loops. I also learned how to generate numbers
+in a specific range of my choosing. I learned how to create a password like 
+code using and, or. I also learned how to find if a number is odd or even and
+how to change its value. 
+
+---
+
+
 # Reflection 5
-##2/23/2018
+## 2/23/2018
 This week I learned how to change my text color to any color I want or I could
 highlight it. I also learned this week on how to make a number range so if I
 type a number into a raw_input it will pop up text that I have put in their
