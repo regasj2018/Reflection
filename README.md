@@ -1,3 +1,14 @@
+# Reflection 7
+##3/9/2018
+This week I learned how to generate a specific amount of lines of text using
+loops. I also learned how to make calculators using input and combining 
+strings. I successfully completed part 1 of the homework and some of part 2.
+I also learned how to make certain variables to do something completely random
+in a range of my choosing.
+
+---
+
+
 # Reflection 6
 ## 3/1/2018
 This week I learned how to create loops. I also learned how to generate numbers
