@@ -1,3 +1,13 @@
+# Reflection 8
+## 3/16/2018
+This week I completed my bowling calculator to the best of my ability. I 
+created a trello account and add things I need to do, things i've started,
+and things i've completed. I've learned about functions and using def. I've 
+started my Google Friday project and gotten a good start on it.
+
+---
+
+
 # Reflection 7
 ##3/9/2018
 This week I learned how to generate a specific amount of lines of text using
