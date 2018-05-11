@@ -1,3 +1,18 @@
+#Reflection 9
+## 5/11/2018
+This week I completed a bunch of katas. These katas helped me review everything
+I learned in programming 1. The main thing I reviewed in these katas were loops
+and how to find a certian integer, string, or variable with loops. I also learned
+from working on my googlefriday project on how to create a gameboard for 
+battleship. At the beginning of this week I finished my bowling calculator
+part 2 assignment. In the bowling calculator I had to change certain rules
+to the calculator like uses 4 die per person, biggest number wins,
+if all 4 numbers are same they win, if they tie they each roll one die till 
+winner, and multiply all 4 die together. 
+
+---
+
+
 # Reflection 8
 ## 3/16/2018
 This week I completed my bowling calculator to the best of my ability. I 
