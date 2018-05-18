@@ -1,3 +1,17 @@
+#Reflection 10
+##5/18/2018
+This semester I completed the dice project, one of my hardest projects. Along
+with the help of my friend Pan, we completed the dice project v2 where we
+had to change 4 parts of the dice project. To the end of the semester we did
+these practice challenges called katas which helped me understand the code I
+was writing and to how to better use loops. All throughout this semester I was
+finishing up my google friday project which I had to restart more times than
+I can count. Though I did break through and I completed it. Computer Programming
+was fun while it lasted, goodbye. :'(
+
+---
+
+
 #Reflection 9
 ## 5/11/2018
 This week I completed a bunch of katas. These katas helped me review everything
