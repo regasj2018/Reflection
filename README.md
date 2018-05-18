@@ -1,5 +1,5 @@
-#Reflection 10
-##5/18/2018
+# Reflection 10
+## 5/18/2018
 This semester I completed the dice project, one of my hardest projects. Along
 with the help of my friend Pan, we completed the dice project v2 where we
 had to change 4 parts of the dice project. To the end of the semester we did
